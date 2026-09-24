@@ -1,0 +1,13 @@
+{
+  "name": "session-learnings",
+  "version": "1.0.0",
+  "description": "Capture lessons learned at the end of each Claude Code session into a low-token hybrid index (.claude/learnings/), recall them at session start, and promote recurring ones into rules.",
+  "author": {
+    "name": "FSTuba",
+    "url": "https://github.com/FSTuba"
+  },
+  "homepage": "https://github.com/FSTuba/claude-session-learnings",
+  "repository": "https://github.com/FSTuba/claude-session-learnings",
+  "license": "MIT",
+  "keywords": ["learnings", "memory", "retrospective", "knowledge-base", "skills"]
+}

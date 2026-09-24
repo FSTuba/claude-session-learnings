@@ -1,0 +1,17 @@
+{
+  "name": "fstuba-plugins",
+  "owner": {
+    "name": "FSTuba",
+    "url": "https://github.com/FSTuba"
+  },
+  "metadata": {
+    "description": "FSTuba's Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "session-learnings",
+      "source": "./",
+      "description": "Capture, index, recall and consolidate lessons learned across Claude Code sessions."
+    }
+  ]
+}
